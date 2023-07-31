@@ -30,7 +30,17 @@ Para compilar e executar este projeto, você precisará ter o Rust e o Cargo ins
 Para compilar o projeto, basta executar o seguinte comando no terminal:
 
 ```bash	
-cargo build
+    # Só para gerar o executável
+    cargo build
+```
+
+# Compilando o Projeto em Produção
+
+Para compilar o projeto em produção, basta executar o seguinte comando no terminal:
+
+```bash	
+    # Só para gerar o executável de produção
+    cargo build --release
 ```
 
 # Executando o Projeto
@@ -38,7 +48,8 @@ cargo build
 Após a compilação bem-sucedida, você pode executar o projeto com o seguinte comando:
 
 ```bash	
-cargo run
+    # Para buildar e executar o projeto
+    cargo run
 ```
 
 # Estrutura do projeto
