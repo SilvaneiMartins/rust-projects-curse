@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	🚧  O projeto estão sendo construindo ainda...  🚧 <br />
+	🚧  O projeto estão sendo construindo ainda...  🚧 <br /><br />
 	Este é um repositório para um projeto em Rust desenvolvido utilizando a ferramenta de gerenciamento de pacotes Cargo. Aqui, você encontrará o código-fonte do projeto, bem como informações importantes sobre sua estrutura e funcionalidades.
 </h3>
 
@@ -16,7 +16,7 @@
 
 # Sobre o Projeto
 
-O projeto é uma implementação em Rust de [descrever brevemente o propósito do projeto]. Ele foi desenvolvido como uma demonstração do poder e da eficiência da linguagem Rust, mostrando como é fácil criar aplicações rápidas e seguras utilizando suas características únicas.
+O projeto é uma implementação em Rust de um projeto bem simples que seria o famoso Hello Word. Ele foi desenvolvido como uma demonstração do poder e da eficiência da linguagem Rust, mostrando como é fácil criar aplicações rápidas e seguras utilizando suas características únicas.
 
 # Como utilizar
 Pré-requisitos:
